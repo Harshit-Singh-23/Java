@@ -1,0 +1,4 @@
+Create a "test" user,create its password and find out its uid and gid.
+
+-> sudo adduser test
+-> id test

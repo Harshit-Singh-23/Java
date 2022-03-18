@@ -1,0 +1,3 @@
+Problem Statement: There can be multiple customers, who can place multiple orders on the site. Now a sales person can handle 
+these orders will distribute into multiple sales persons (One order will be assigned to one salesperson only). So a sales 
+person can have multiple orders of multiple customers. 

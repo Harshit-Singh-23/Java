@@ -1,0 +1,4 @@
+-- Q. Create tables
+CREATE TABLE customers( customer_id BIGINT PRIMARY KEY AUTO_INCREMENT, customer_name TEXT, Location VARCHAR(100));
+CREATE TABLE orders(order_id BIGINT PRIMARY KEY AUTO_INCREMENT, order_item VARCHAR(100));
+CREATE TABLE sales_person(id BIGINT PRIMARY KEY AUTO_INCREMENT, Name TEXT);

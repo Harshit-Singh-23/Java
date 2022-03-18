@@ -1,0 +1,6 @@
+Try reading passwd_backup file in multiple tools: less,more,cat,strings etc and find the difference in their usage.
+
+-> cat passwd_backup
+-> less passwd_backup
+-> more passwd_backup
+-> strings passwd_backup

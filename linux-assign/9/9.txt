@@ -1,0 +1,3 @@
+Change the timestamp of emptyFile1,emptyFile2 which already exist in dir2
+
+-> touch emptyFile1 emptyFile2

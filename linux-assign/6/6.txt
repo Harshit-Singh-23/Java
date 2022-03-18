@@ -1,0 +1,3 @@
+Find out the number of line in password_backup containing "/bin/false".
+
+-> less passwd_backup | grep -c "/bin/false"

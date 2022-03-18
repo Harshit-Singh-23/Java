@@ -1,0 +1,5 @@
+Edit ~/.bashrc file such that when you change to "test" user it should clear the screen and print "Welcome".
+
+-> su test1
+-> vi ~/.bashrc
+-> su test1

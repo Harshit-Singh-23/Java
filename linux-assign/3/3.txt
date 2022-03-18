@@ -1,0 +1,4 @@
+Create one file file1.txt containing text "hello world" and save it.
+
+-> cat > file1.text
+# type "hello world"

@@ -1,0 +1,3 @@
+Compress "output" and "password_backup" files into a tar ball. List the files present inside the tar created.
+
+-> tar -cvf ball.tar output passwd_backup 

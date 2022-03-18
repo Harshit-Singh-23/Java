@@ -1,0 +1,7 @@
+Get the first 5 lines of a file “password_backup” and  Redirect the output of the above commands into file "output".
+
+-> touch output
+-> head -n 5 passwd_backup > output
+-> cat output
+
+-> head -n 5 passwd_backup | tail -5 passwd_backup

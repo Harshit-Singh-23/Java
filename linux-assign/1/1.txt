@@ -1,0 +1,4 @@
+Create a directory "exercise" inside your home directory and create nested(dir1/dir2/dir3)
+directory structure inside "excerise" with single command.
+
+-> mkdir -p exercise/dir1/dir2/dir3

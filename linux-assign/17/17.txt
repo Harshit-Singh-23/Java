@@ -1,0 +1,3 @@
+Download any image from web and move to desktop.
+
+-> wget https://images.app.goo.gl/wfAQhQCnWZKQAvxx6 -o home/harshit/Desktop/img.jpg

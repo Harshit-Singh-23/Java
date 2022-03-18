@@ -1,0 +1,3 @@
+Unzip this tar file by logging into the remote server
+
+-> scp ball.tar test1@localhost:/home/test1

@@ -1,0 +1,3 @@
+Install “zip” package.
+
+-> sudo apt install zip

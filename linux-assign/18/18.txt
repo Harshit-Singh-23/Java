@@ -1,0 +1,3 @@
+How to get help of commands usages.
+
+-> cat --help

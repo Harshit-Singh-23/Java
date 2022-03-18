@@ -1,0 +1,5 @@
+Find a "passwd" file using find command inside /etc. copy this files as passwd_copy and then rename this file as passwd_backup.
+
+-> find /etc/passwd
+-> cp /etc/passwd passwd_copy
+-> mv passwd_copy passwd_backup

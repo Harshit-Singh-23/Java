@@ -1,0 +1,4 @@
+Create a symlink of /etc/services into /tmp/ports-info
+
+-> ln -s /etc/services /tmp/ports-info
+-> ls -la /tmp/ports-info

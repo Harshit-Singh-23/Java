@@ -1,0 +1,5 @@
+Create alias with your name so that it creates a file as "/tmp/aliastesting".
+
+-> alias harshit="mkdir /tmp/aliastesting"
+-> harshit
+-> cd tmp

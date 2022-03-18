@@ -1,0 +1,3 @@
+Create two empty files inside dir2 directory: emptyFile1,emptyFile2 in single command.
+
+-> touch emptyFile1 emptyFile2

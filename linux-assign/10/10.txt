@@ -1,0 +1,10 @@
+Login as test user and edit the "output" file created above. Since the permission wont allow you to save the changes.
+Configure such that test user can edit it.
+a. Add group owner of the "output" file as the secondary group of testuser and check/change the "output" file permission if it is editable by group. Once done revert the changes
+b. Make the file editable to the world so that test user can access it. Revert the changes after verification
+c. Change the ownership to edit the file.
+
+-> sudo su test
+-> sudo chmod 662 output
+# edit the file 
+-> sudo chmod 666 output

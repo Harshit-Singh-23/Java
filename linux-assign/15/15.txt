@@ -1,0 +1,4 @@
+scp this file to test user 
+
+-> scp ball.tar test1@localhost:/home/test1
+-> su test1
